@@ -1,6 +1,6 @@
 # ICR - Identifying Age-Related Conditions using Ensemble Methods
 
-![Project Image](project_image.png) <!-- Replace with an image related to your project -->
+<img src="icr.jpeg" width="1000">
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -20,3 +20,9 @@ To use this project, follow these installation steps:
 
 1. Clone the repository:
 git clone https://github.com/your-username/ICR-Identifying-Age-Related-Conditions.git
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
